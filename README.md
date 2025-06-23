@@ -32,6 +32,10 @@ void ballon_wasted(void);
 void reload(int);
 ```
 
+---
+
+## ✨ Snapshots
+
 ![Frame 1](https://github.com/krutikgit/Pop-n-Shoot/blob/main/assets/snap1.png)
 ![Frame 2](https://github.com/krutikgit/Pop-n-Shoot/blob/main/assets/snap2.png)
 ![Frame 3](https://github.com/krutikgit/Pop-n-Shoot/blob/main/assets/snap3.png)
