@@ -10,17 +10,6 @@ Move the shooter with your mouse, aim carefully, and match bullet colors with th
 
 ---
 
-## ✨ Features
-
-- 🎨 **Color-matching mechanics**
-- 🖱️ **Mouse-controlled shooter**
-- 🔫 **Left-click to shoot, Right-click to reload**
-- 💥 **Bubble burst effects**
-- 🧠 **Custom-built game loop and graphics rendering**
-- 🧹 **Dynamic memory usage for bullets and bubbles**
-
----
-
 ## ⚙️ Core Functions
 
 The game logic is structured around the following key functions:
